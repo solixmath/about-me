@@ -1,4 +1,4 @@
-<h1 align="center">Hi I’m a 13 year old web developer making unblocked game websites Ozzy</h1>
+<h1 align="center">Hi I’m a 13 year old web developer making unblocked game websites</h1>
 <h3 align="center">A decent web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathpunch&label=Profile%20views&color=0e75b6&style=flat" alt="mathpunch" /> </p>
